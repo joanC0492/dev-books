@@ -3,14 +3,6 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      // "@/*": ["src/*"],
-      // "@pages/*": ["src/pages/*"],
-      // "@components/*": ["src/components/*"],
-      // "@layouts/*": ["src/layouts/*"],
-      //
-      // "@/pages/*": ["./src/pages/*"],
-      // "@/components/*": ["./src/components/*"],
-      // "@/layouts/*": ["./src/layouts/*"]
       "@/*": ["./src/*"],
       "@pages/*": ["./src/pages/*"],
       "@components/*": ["./src/components/*"],
